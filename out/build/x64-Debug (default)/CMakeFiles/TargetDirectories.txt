@@ -1,0 +1,3 @@
+C:/Users/HYSTOU/3D Objects/FromLessons/BankSystem/out/build/x64-Debug (default)/CMakeFiles/BankSystem.dir
+C:/Users/HYSTOU/3D Objects/FromLessons/BankSystem/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/HYSTOU/3D Objects/FromLessons/BankSystem/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
